@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraText">
+
+    <item>
+        <shape>
+            <solid android:color="@color/btn_color"/>
+            <corners android:radius="8dp" /> <!-- Độ cong của góc -->
+        </shape>
+    </item>
+
+</selector>
